@@ -1,0 +1,29 @@
+#ancre-s h2 {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+
+}
+
+#ancre-s {
+    margin-top: 100px;
+}
+
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.html,
+.css,
+.javascript,
+.github,
+.react,
+.figma {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}

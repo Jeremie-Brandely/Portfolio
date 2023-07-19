@@ -1,0 +1,28 @@
+{
+  "projets": {
+    "title": "Mes projets",
+    "projets": [
+      {
+        "title": "Projet Sophie Bluel",
+        "description": "Projet Javascript, site internet d'une photographe. Affichage dynamique des projets, filtres, et possibilité d'ajouter/ modifier/ supprimer différents projets. Accès a la modification avec connexion et token.",
+        "url": "http://www.example.com/project1",
+        "github": "https://github.com/Jeremie-Brandely/Javascript",
+        "images": "../images/Bluel_accueil.png"
+      },
+      {
+        "title": "Projet Kasa",
+        "description": "Projet React, site internet de location d'appartements. Utilisation de composants pour la structure du site. Collapse sur les information des appartements, et gallerie photo navigante.",
+        "url": "http://www.example.com/project2",
+        "github": "https://github.com/Jeremie-Brandely/ProjetKasa",
+        "images": "../images/Kasa_accueil.png"
+      },
+      {
+        "title": "Projet MonVieuxGrimoire",
+        "description": "Projet backend, site internet de notation de livres. Partie backend a réaliser sur l'ajout, la lecture, la modification et la suppression des livres. Connexion au site sécurisé avec hachage de mot de passe. Images des livres enregistré dans le dossier images a chaque ajout.",
+        "url": "http://www.example.com/project3",
+        "github": "https://github.com/Jeremie-Brandely/ProjetGrimoire",
+        "images": "../images/Grimoire_accueil.PNG"
+      }
+    ]
+  }
+}

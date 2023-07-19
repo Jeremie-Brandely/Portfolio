@@ -1,0 +1,36 @@
+#navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#navigation a {
+    margin: auto;
+}
+
+.about,
+.skills,
+.works,
+.contact {
+    margin: 0 auto;
+
+}
+
+.link-a,
+.link-c,
+.link-s,
+.link-t {
+    margin: auto 0;
+    text-decoration: none;
+    color: white;
+
+}
+
+a.link-a:hover,
+a.link-c:hover,
+a.link-s:hover,
+a.link-t:hover {
+    border-bottom: 3px white solid;
+    border-bottom: 3px white solid;
+}

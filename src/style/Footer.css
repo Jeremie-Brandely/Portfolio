@@ -1,0 +1,22 @@
+.footimg {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.footp {
+    display: flex;
+    justify-content: center;
+
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer img {
+    width: 70px;
+}

@@ -1,0 +1,56 @@
+.titrehome {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+
+}
+
+.titrehome h2 {
+    font-size: 50px;
+
+}
+
+.imagehome {
+    display: flex;
+    justify-content: center;
+}
+
+.imagehome img {
+    width: 320px;
+    object-fit: cover;
+    border-radius: 30%;
+}
+
+.infohome {
+    display: flex;
+    justify-content: center;
+}
+
+#navigation {
+    background-color: black;
+    height: 80px;
+}
+
+.intro {
+    height: 800px;
+}
+
+.reseaux {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+
+}
+
+.linklinkedin {
+    margin: 30px;
+}
+
+.linkmail {
+    margin: 30px;
+}
+
+.linkgithub {
+    margin: 30px;
+}
