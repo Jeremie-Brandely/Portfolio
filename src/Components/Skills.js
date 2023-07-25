@@ -19,7 +19,7 @@ const Skills = () => {
             <Icon icon="vscode-icons:file-type-js" width="50"  /> <p>Javascript</p>
             </div>
             <div className="github">
-            <Icon icon="devicon:github" width="50"  /> <p>Github</p> 
+            <Icon icon="fa6-brands:github" color="white" width="50" /> <p>Github</p> 
             </div>
             <div className="react">
             <Icon icon="skill-icons:react-dark" width="50" /> <p>React</p>

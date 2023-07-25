@@ -1,5 +1,4 @@
 import React from 'react';
-import Nav from '../Components/Nav';
 import About from "../Components/About";
 import Skills from '../Components/Skills';
 import Works from '../Components/Works';

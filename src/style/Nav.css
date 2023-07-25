@@ -31,6 +31,6 @@ a.link-a:hover,
 a.link-c:hover,
 a.link-s:hover,
 a.link-t:hover {
-    border-bottom: 3px white solid;
-    border-bottom: 3px white solid;
+    border-bottom: 2px white solid;
+    border-bottom: 2px white solid;
 }

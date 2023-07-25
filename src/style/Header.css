@@ -5,6 +5,11 @@
 
 }
 
+.header {
+    background-color: #D7CAAA;
+
+}
+
 .titrehome h2 {
     font-size: 50px;
 
@@ -19,6 +24,7 @@
     width: 320px;
     object-fit: cover;
     border-radius: 30%;
+    box-shadow: 0px 0px 50px black;
 }
 
 .infohome {
@@ -29,10 +35,11 @@
 #navigation {
     background-color: black;
     height: 80px;
+
 }
 
 .intro {
-    height: 800px;
+    margin: 150px;
 }
 
 .reseaux {
@@ -42,6 +49,8 @@
     align-items: center;
 
 }
+
+
 
 .linklinkedin {
     margin: 30px;

@@ -3,25 +3,39 @@
     "title": "Mes projets",
     "projets": [
       {
+        "title": "Projet Booki",
+        "description": "Création d'un site de location immobiliere responsive, HTML et CSS.",
+        "url": "http://www.example.com/project1",
+        "github": "https://github.com/Jeremie-Brandely/Openclassrooms-Projet-2",
+        "images": "projets/Booki_accueil.PNG"
+      },
+      {
+        "title": "Projet Nina Carducci",
+        "description": "Optimisation et debug d'un site internet (SEO, performances), débuggage des fonctionnalités avec Chrome DevTools.",
+        "url": "http://www.example.com/project1",
+        "github": "https://github.com/Jeremie-Brandely/Projet-Nina",
+        "images": "projets/Nina_accueil.PNG"
+      },
+      {
         "title": "Projet Sophie Bluel",
-        "description": "Projet Javascript, site internet d'une photographe. Affichage dynamique des projets, filtres, et possibilité d'ajouter/ modifier/ supprimer différents projets. Accès a la modification avec connexion et token.",
+        "description": "Projet Javascript, site internet d'une photographe. Gérer les évenements utilisateurs avec JS, manipuler les éléments du DOM, récupération des données utilisateurs via des formulaires.",
         "url": "http://www.example.com/project1",
         "github": "https://github.com/Jeremie-Brandely/Javascript",
-        "images": "../images/Bluel_accueil.png"
+        "images": "projets/Bluel_accueil.PNG"
       },
       {
         "title": "Projet Kasa",
         "description": "Projet React, site internet de location d'appartements. Utilisation de composants pour la structure du site. Collapse sur les information des appartements, et gallerie photo navigante.",
         "url": "http://www.example.com/project2",
         "github": "https://github.com/Jeremie-Brandely/ProjetKasa",
-        "images": "../images/Kasa_accueil.png"
+        "images": "projets/Kasa_accueil.png"
       },
       {
         "title": "Projet MonVieuxGrimoire",
         "description": "Projet backend, site internet de notation de livres. Partie backend a réaliser sur l'ajout, la lecture, la modification et la suppression des livres. Connexion au site sécurisé avec hachage de mot de passe. Images des livres enregistré dans le dossier images a chaque ajout.",
         "url": "http://www.example.com/project3",
         "github": "https://github.com/Jeremie-Brandely/ProjetGrimoire",
-        "images": "../images/Grimoire_accueil.PNG"
+        "images": "projets/grimoire_accueil.png"
       }
     ]
   }

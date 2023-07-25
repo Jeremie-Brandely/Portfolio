@@ -20,7 +20,7 @@ const Header = () => {
         <h2>Jérémie Brandely</h2>
         </div>
         <div className="imagehome">
-            <img src={photo}/>
+            <img src={photo} alt="photo_pres"/>
         </div>
         <div className="infohome">
         <h3>Developpeur Web | Fullstacks</h3>
