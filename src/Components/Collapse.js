@@ -25,7 +25,7 @@ const Collapse = ({title, content, img, git, link}) => {
                      {content}
                      
                 <div className={toggle ? 'collapse-content' : 'collapse-content-hidden'}>
-                    <img src={img}></img>
+                    <img src={img} alt="accueil projet">  </img>
                 </div> 
      
                 </div> 

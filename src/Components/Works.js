@@ -23,7 +23,7 @@ const Projets = () => {
             <li key={projets.title} className="projet_all">
 
               <div className="infos_projets">
-                <Collapse title={projets.title} content={projets.description} img={projets.images} alt="accueil-projet" link={projets.url} git={projets.github} />
+                <Collapse title={projets.title} content={projets.description} img={projets.images} link={projets.url} git={projets.github} />
                
               </div>
             </li>
