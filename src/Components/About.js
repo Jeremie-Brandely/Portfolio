@@ -4,17 +4,17 @@ import "../style/About.css"
 const About = () => {
     return (
         <div id="ancre-a">
-            <div class="logo-holder">
-  <div class="bg"></div>
-  <div class="bar"></div>
-  <div class="bar fill1"></div>
-  <div class="bar fill2"></div>
-  <div class="bar fill3"></div>
-  <div class="bar fill4"></div>
-  <div class="bar fill1"></div>
-  <div class="bar fill5"></div>
-  <div class="bar fill6"></div>
-  <div class="bar"></div>
+            <div className="logo-holder">
+  <div className="bg"></div>
+  <div className="bar"></div>
+  <div className="bar fill1"></div>
+  <div className="bar fill2"></div>
+  <div className="bar fill3"></div>
+  <div className="bar fill4"></div>
+  <div className="bar fill1"></div>
+  <div className="bar fill5"></div>
+  <div className="bar fill6"></div>
+  <div className="bar"></div>
 </div>
             <div className="aboutinfos">
             <h2> A Propos </h2>
