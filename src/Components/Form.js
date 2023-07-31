@@ -3,15 +3,18 @@ import emailjs from "@emailjs/browser";
 import "../style/Form.css"
 
 export const Form = () => {
+  
   const form = useRef();
   const sendEmail = (e) => {
     e.preventDefault();
 
     emailjs.sendForm("service_jx4r5lb", "template_rxmhy9l", form.current, "K4q5w2oCoG-zlSV8L").then(
       (result) => {
+        alert("Message envoyé");
         console.log(result.text);
       },
       (error) => {
+        alert("Erreur dans l'envoi");
         console.log(error.text);
       }
     );
@@ -19,7 +22,7 @@ export const Form = () => {
 
   return (
     <div className="form_all">
-      <form ref={form} onSubmit={sendEmail}>
+      <form ref={form} onSubmit={sendEmail} >
         <label>Nom</label>
         <input type="text" name="name" />
         <label>Email</label>
