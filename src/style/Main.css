@@ -3,6 +3,8 @@
     font-family: Kanit;
 }
 
+
+
 body {
     margin: 0 auto;
 }
@@ -13,4 +15,14 @@ h2 {
 
 h3 {
     font-size: 28px;
+}
+
+@media screen and (max-width: 650px) {
+    h2 {
+        font-size: 28px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
 }

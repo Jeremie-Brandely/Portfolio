@@ -6,3 +6,7 @@
 .projet_all {
     list-style-type: none;
 }
+
+ul {
+    padding: 0;
+}

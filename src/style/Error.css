@@ -1,0 +1,44 @@
+.error {
+    max-width: 100%;
+    margin: 0 auto;
+    padding-bottom: 154px;
+    color: #000;
+    background-color: #D7CAAA;
+}
+
+
+
+.infos-error {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.info-error-title {
+    font-weight: 600;
+    font-size: 288px;
+    margin: 80px;
+}
+
+.info-error-contenu {
+    font-weight: 500;
+    font-size: clamp(20px, 4vw, 36px);
+    text-align: center;
+    color: #000;
+    margin-bottom: 80px;
+}
+
+.return {
+    display: block;
+    text-align: center;
+    font-weight: 500;
+    color: #000;
+}
+
+@media screen and (max-width: 768px) {
+    .info-error-title {
+        font-size: 140px;
+    }
+}

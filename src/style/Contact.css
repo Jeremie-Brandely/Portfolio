@@ -3,3 +3,9 @@
     background-color: #D7CAAA;
     border-top: 3px solid black;
 }
+
+@media screen and (max-width: 650px) {
+    #ancre-c {
+        padding: 20px;
+    }
+}

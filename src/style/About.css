@@ -229,3 +229,34 @@
         background-color: #D7CAAA;
     }
 }
+
+@media screen and (max-width: 850px) {
+    .logo-holder {
+        display: none;
+    }
+
+    .aboutinfos {
+        padding: 40px;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+    .aboutinfos {
+        padding: 20px;
+
+    }
+
+    .aboutinfos p {
+        font-size: 18px;
+
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    .aboutinfos p {
+        font-size: 18px;
+
+    }
+}

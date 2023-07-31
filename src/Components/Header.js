@@ -29,8 +29,6 @@ const Header = () => {
             <div className="linklinkedin">
             <a href="https://www.linkedin.com/in/jérémie-brandely-435ba1131"><Icon icon="simple-icons:linkedin" color="black" width="50" /></a>
             </div>
-            <div className="linkmail"><a href="mailto:jeremie.brandely@gmail.com"><Icon icon="logos:google-gmail" color="black" width="50" /></a>
-            </div>
             <div className="linkgithub"><a href="https://github.com/Jeremie-Brandely"><Icon icon="devicon:github" color="black" width="50" /></a>
             </div>
         </div>

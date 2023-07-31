@@ -27,6 +27,8 @@
     box-shadow: 0px 0px 50px black;
 }
 
+
+
 .infohome {
     display: flex;
     justify-content: center;
@@ -54,12 +56,51 @@
 
 .linklinkedin {
     margin: 30px;
+    transition: transform .1s;
 }
 
-.linkmail {
-    margin: 30px;
-}
+
 
 .linkgithub {
     margin: 30px;
+    transition: transform .1s;
+}
+
+.linklinkedin:hover,
+.linkgithub:hover {
+    -ms-transform: scale(1.3);
+    /* IE 9 */
+    -webkit-transform: scale(1.3);
+    /* Safari 3-8 */
+    transform: scale(1.3);
+}
+
+@media screen and (max-width: 600px) {
+    .imagehome img {
+        width: 250px;
+    }
+
+    .intro {
+        margin: 0;
+    }
+}
+
+
+@media screen and (max-width: 450px) {
+    .titrehome h2 {
+        font-size: 35px;
+    }
+
+    .infohome h3 {
+        font-size: 25px;
+    }
+
+
+}
+
+
+@media screen and (max-width: 350px) {
+    .imagehome img {
+        width: 200px;
+    }
 }
