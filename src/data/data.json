@@ -19,21 +19,21 @@
       {
         "title": "Projet Sophie Bluel",
         "description": "Projet Javascript, site internet d'une photographe. Gérer les évenements utilisateurs avec JS, manipuler les éléments du DOM, récupération des données utilisateurs via des formulaires.",
-        "url": "https://jeremie-brandely.github.io/Sophie-Bluel/",
+        "url": "",
         "github": "https://github.com/Jeremie-Brandely/Javascript",
         "images": "projets/Bluel_accueil.PNG"
       },
       {
         "title": "Projet Kasa",
         "description": "Projet React, site internet de location d'appartements. Utilisation de composants pour la structure du site. Collapse sur les information des appartements, et gallerie photo navigante.",
-        "url": "https://jeremie-brandely.github.io/ProjetKasa/",
+        "url": "",
         "github": "https://github.com/Jeremie-Brandely/ProjetKasa",
         "images": "projets/Kasa_accueil.png"
       },
       {
         "title": "Projet Mon Vieux Grimoire",
         "description": "Projet backend, site internet de notation de livres. Partie backend a réaliser sur l'ajout, la lecture, la modification et la suppression des livres. Connexion au site sécurisé avec hachage de mot de passe. Images des livres enregistré dans le dossier images a chaque ajout.",
-        "url": "https://jeremie-brandely.github.io/ProjetGrimoire/",
+        "url": "",
         "github": "https://github.com/Jeremie-Brandely/ProjetGrimoire",
         "images": "projets/Grimoire_accueil.png"
       }

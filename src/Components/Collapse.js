@@ -29,11 +29,11 @@ const Collapse = ({title, content, img, git, link}) => {
                 </div> 
      
                 </div> 
-                <div className={toggle ? 'collapse-content' : 'collapse-content-hidden'}>
-                     <a href={git}>Voir le code du projet</a>
+                <div  className={toggle ? 'collapse-content' : 'collapse-content-hidden'}>
+                   <a  href={git}>Voir le code du projet</a>
                 </div> 
                 <div className={toggle ? 'collapse-content' : 'collapse-content-hidden'}>
-                <a href={link}>Voir le projet</a>
+                <a className={link ? "lien-site" : "aucun-lien" } href={link}>Voir le projet</a>
                 </div> 
                 
 
