@@ -27,9 +27,9 @@ const Header = () => {
         </div>
         <div className="reseaux" >
             <div className="linklinkedin">
-            <a href="https://www.linkedin.com/in/jérémie-brandely-435ba1131" target="_blank"><Icon icon="simple-icons:linkedin" color="black" width="50" /></a>
+            <a href="https://www.linkedin.com/in/jérémie-brandely-435ba1131" target="_blank" rel="noopener"><Icon icon="simple-icons:linkedin" color="black" width="50" /></a>
             </div>
-            <div className="linkgithub"><a href="https://github.com/Jeremie-Brandely" target="_blank"><Icon icon="devicon:github" color="black" width="50" /></a>
+            <div className="linkgithub"><a href="https://github.com/Jeremie-Brandely" target="_blank" rel="noopener"><Icon icon="devicon:github" color="black" width="50" /></a>
             </div>
         </div>
 

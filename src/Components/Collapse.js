@@ -30,10 +30,10 @@ const Collapse = ({title, content, img, git, link}) => {
      
                 </div> 
                 <div  className={toggle ? 'collapse-content' : 'collapse-content-hidden'}>
-                   <a  href={git} target="_blank">Voir le code du projet</a>
+                   <a  href={git} target="_blank" rel="noopener">Voir le code du projet</a>
                 </div> 
                 <div className={toggle ? 'collapse-content' : 'collapse-content-hidden'}>
-                <a className={link ? "lien-site" : "aucun-lien" } href={link} target="_blank">Voir le projet</a>
+                <a className={link ? "lien-site" : "aucun-lien" } href={link} target="_blank" rel="noopener">Voir le projet</a>
                 </div> 
                 
 
