@@ -24,7 +24,7 @@ const About = () => {
                 J'ai donc suivi la formation dev webv d'openclassroom afin de travailler dans un univers plaisant, a la recherche de nouvelles compétences et d'adaptation. 
             </p>
             <div className="cv">
-            <a href="cv_j_brandely.pdf" download="cv_j_brandely.pdf">Télécharger mon CV</a>
+            <a href="jeremie_brandely_CV.pdf" download="jeremie_brandely_CV.pdf">Télécharger mon CV</a>
             </div>
                         
             </div>
