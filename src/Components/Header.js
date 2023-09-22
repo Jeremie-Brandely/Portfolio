@@ -1,7 +1,7 @@
 import React from "react";
 import Nav from "./Nav";
 import "../style/Header.css";
-import photo from "../images/moi.jpeg";
+import photo from "../images/imagepro.jpeg";
 import { Icon } from "@iconify/react";
 
 const Header = () => {
@@ -27,7 +27,7 @@ const Header = () => {
         </div>
         <div className="reseaux" >
             <div className="linklinkedin">
-            <a href="https://www.linkedin.com/in/jérémie-brandely-435ba1131" target="_blank" rel="noreferrer"><Icon icon="simple-icons:linkedin" color="black" width="50" /></a>
+            <a href="https://www.linkedin.com/in/jbrandely" target="_blank" rel="noreferrer"><Icon icon="simple-icons:linkedin" color="black" width="50" /></a>
             </div>
             <div className="linkgithub"><a href="https://github.com/Jeremie-Brandely" target="_blank" rel="noreferrer"><Icon icon="devicon:github" color="black" width="50" /></a>
             </div>
