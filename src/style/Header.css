@@ -21,8 +21,8 @@
 }
 
 .imagehome img {
-    width: 350px;
-    max-height: 350px;
+
+    max-height: 200px;
     object-fit: cover;
     border-radius: 30%;
     box-shadow: 0px 0px 10px black;
