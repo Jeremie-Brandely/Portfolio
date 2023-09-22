@@ -23,7 +23,7 @@ const Header = () => {
             <img src={photo} alt="photo_pres"/>
         </div>
         <div className="infohome">
-        <h3>Developpeur Web | Fullstacks</h3>
+        <h3>Developpeur Web | Fullstack</h3>
         </div>
         <div className="reseaux" >
             <div className="linklinkedin">
